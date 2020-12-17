@@ -1,3 +1,4 @@
 ```luceescript
-directorydelete("DirectoryPath");
+directoryDelete("DirectoryPath",true)
+
 ```
