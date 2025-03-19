@@ -1074,7 +1074,7 @@
     "file": "static-mocking.md",
     "title": "Mocking Static Functions in Lucee",
     "path": "/docs/recipes/static-mocking.md",
-    "hash": "a6865c113e01b06c81bedc23c7fb67b0",
+    "hash": "2e91332c22a56146202e6ef86e58caaa",
     "keywords": [
       "Static Functions",
       "Mocking",
@@ -1085,7 +1085,7 @@
     "file": "static-scope-in-components.md",
     "title": "Static Scope in Components",
     "path": "/docs/recipes/static-scope-in-components.md",
-    "hash": "0473bd4ec73c863b7378bebb815696b7",
+    "hash": "f1197ddb4b4fc65c411b693ad62f3756",
     "keywords": [
       "Static scope",
       "Components",
